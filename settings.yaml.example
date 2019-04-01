@@ -1,0 +1,8 @@
+
+percentiles:
+  google.com:
+  - .*users.*
+  - .*mail.*
+  mail.ru:
+  - .*search.*
+  - .*pic.*
